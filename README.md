@@ -23,12 +23,13 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-fawn-delta-90.vercel.app">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/rajit-agrawal-639bab28a/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:rajitagrawal2005@gmail.com">Email</a>
+  <a href="https://portfolio-fawn-delta-90.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/rajit-agrawal-639bab28a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://rajitagrawal.medium.com"><img src="https://img.shields.io/badge/Blog-EA580C?style=for-the-badge&logoColor=white" alt="Blog"></a>
+  <a href="mailto:rajitagrawal2005@gmail.com"><img src="https://img.shields.io/badge/Email-0F9B8E?style=for-the-badge&logoColor=white" alt="Email"></a>
 </p>
 
-## `01` About
+## About
 
 I'm a Computer Science undergraduate at **VIT Vellore** (B.Tech, class of 2027, CGPA 9.74). Most of what I build sits where software meets finance: market dashboards, a budgeting assistant, and a decentralised quant-trading fund. Finance is a domain where "mostly works" isn't good enough, and that's exactly why I like building for it.
 
@@ -36,11 +37,11 @@ I care about the parts of engineering that make software trustworthy. **MarketPu
 
 My internships span AI at **Deloitte**, software testing in the capital-markets domain at **AQM Technologies**, and web development at **ApexPlanet**, and I contribute to open source through **GirlScript Summer of Code**. Right now I'm going deeper into applied AI and cloud data platforms.
 
-## `02` Tech stack
+## Tech stack
 
 <table>
   <tr>
-    <td width="150"><b>Languages</b></td>
+    <td width="170"><b>Languages</b></td>
     <td>
       <img src="assets/icons/c.svg" width="40" height="40" alt="C" title="C">
       <img src="assets/icons/cpp.svg" width="40" height="40" alt="C++" title="C++">
@@ -59,6 +60,7 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
       <img src="assets/icons/react.svg" width="40" height="40" alt="React" title="React">
       <img src="assets/icons/nextjs.svg" width="40" height="40" alt="Next.js" title="Next.js">
       <img src="assets/icons/tailwind.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS">
+      <img src="assets/icons/shadcn.svg" width="40" height="40" alt="shadcn/ui" title="shadcn/ui">
       <img src="assets/icons/threejs.svg" width="40" height="40" alt="Three.js" title="Three.js">
       <img src="assets/icons/flutter.svg" width="40" height="40" alt="Flutter" title="Flutter">
     </td>
@@ -68,14 +70,27 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
     <td>
       <img src="assets/icons/spring.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot">
       <img src="assets/icons/fastapi.svg" width="40" height="40" alt="FastAPI" title="FastAPI">
+      <img src="assets/icons/pydantic.svg" width="40" height="40" alt="Pydantic" title="Pydantic">
       <img src="assets/icons/celery.svg" width="40" height="40" alt="Celery" title="Celery">
       <img src="assets/icons/streamlit.svg" width="40" height="40" alt="Streamlit" title="Streamlit">
+      <img src="assets/icons/restapi.svg" width="40" height="40" alt="REST APIs" title="REST APIs">
       <img src="assets/icons/postman.svg" width="40" height="40" alt="Postman" title="Postman">
-      &nbsp;<sub>REST APIs</sub>
     </td>
   </tr>
   <tr>
-    <td><b>AI &amp; data science</b></td>
+    <td><b>AI &amp; LLMs</b></td>
+    <td>
+      <img src="assets/icons/openai.svg" width="40" height="40" alt="OpenAI" title="OpenAI">
+      <img src="assets/icons/claude.svg" width="40" height="40" alt="Claude" title="Claude">
+      <img src="assets/icons/gemini.svg" width="40" height="40" alt="Google Gemini" title="Google Gemini">
+      <img src="assets/icons/groq.svg" width="40" height="40" alt="Groq" title="Groq">
+      <img src="assets/icons/langgraph.svg" width="40" height="40" alt="LangGraph" title="LangGraph">
+      <img src="assets/icons/mcp.svg" width="40" height="40" alt="Model Context Protocol" title="Model Context Protocol">
+      <img src="assets/icons/huggingface.svg" width="40" height="40" alt="Hugging Face" title="Hugging Face">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data science</b></td>
     <td>
       <img src="assets/icons/numpy.svg" width="40" height="40" alt="NumPy" title="NumPy">
       <img src="assets/icons/pandas.svg" width="40" height="40" alt="Pandas" title="Pandas">
@@ -83,43 +98,62 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
       <img src="assets/icons/matplotlib.svg" width="40" height="40" alt="Matplotlib" title="Matplotlib">
       <img src="assets/icons/plotly.svg" width="40" height="40" alt="Plotly" title="Plotly">
       <img src="assets/icons/opencv.svg" width="40" height="40" alt="OpenCV" title="OpenCV">
-      <img src="assets/icons/gemini.svg" width="40" height="40" alt="Google Gemini" title="Google Gemini API">
-      &nbsp;<sub>OpenAI · Claude · Groq APIs</sub>
     </td>
   </tr>
   <tr>
-    <td><b>Cloud &amp; data</b></td>
+    <td><b>Testing &amp; formal methods</b></td>
+    <td>
+      <img src="assets/icons/z3.svg" width="40" height="40" alt="Z3 SMT solver" title="Z3 SMT solver">
+      <img src="assets/icons/lark.svg" width="40" height="40" alt="Lark parser" title="Lark parser">
+      <img src="assets/icons/hypothesis.svg" width="40" height="40" alt="Hypothesis" title="Hypothesis">
+      <img src="assets/icons/pytest.svg" width="40" height="40" alt="pytest" title="pytest">
+      <img src="assets/icons/playwright.svg" width="40" height="40" alt="Playwright" title="Playwright">
+      <img src="assets/icons/testcontainers.svg" width="40" height="40" alt="Testcontainers" title="Testcontainers">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; data platforms</b></td>
     <td>
       <img src="assets/icons/aws.svg" width="40" height="40" alt="AWS" title="AWS">
       <img src="assets/icons/databricks.svg" width="40" height="40" alt="Databricks" title="Databricks">
+      <img src="assets/icons/deltalake.svg" width="40" height="40" alt="Delta Lake" title="Delta Lake">
+      <img src="assets/icons/unitycatalog.svg" width="40" height="40" alt="Unity Catalog" title="Unity Catalog">
       <img src="assets/icons/supabase.svg" width="40" height="40" alt="Supabase" title="Supabase">
+      <img src="assets/icons/neon.svg" width="40" height="40" alt="Neon" title="Neon">
+      <img src="assets/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare" title="Cloudflare">
       <img src="assets/icons/vercel.svg" width="40" height="40" alt="Vercel" title="Vercel">
-      &nbsp;<sub>Delta Lake · Unity Catalog</sub>
+      <img src="assets/icons/hetzner.svg" width="40" height="40" alt="Hetzner" title="Hetzner">
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td><b>Databases &amp; messaging</b></td>
     <td>
       <img src="assets/icons/mysql.svg" width="40" height="40" alt="MySQL" title="MySQL">
       <img src="assets/icons/postgres.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">
+      <img src="assets/icons/pgvector.svg" width="40" height="40" alt="pgvector" title="pgvector">
       <img src="assets/icons/redis.svg" width="40" height="40" alt="Redis" title="Redis">
       <img src="assets/icons/sqlite.svg" width="40" height="40" alt="SQLite" title="SQLite">
+      <img src="assets/icons/redpanda.svg" width="40" height="40" alt="Redpanda" title="Redpanda">
     </td>
   </tr>
   <tr>
-    <td><b>DevOps &amp; tools</b></td>
+    <td><b>DevOps &amp; observability</b></td>
     <td>
       <img src="assets/icons/git.svg" width="40" height="40" alt="Git" title="Git">
       <img src="assets/icons/github.svg" width="40" height="40" alt="GitHub" title="GitHub">
       <img src="assets/icons/githubactions.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions">
       <img src="assets/icons/docker.svg" width="40" height="40" alt="Docker" title="Docker">
       <img src="assets/icons/gradle.svg" width="40" height="40" alt="Gradle" title="Gradle">
-      <img src="assets/icons/pytest.svg" width="40" height="40" alt="pytest" title="pytest">
+      <img src="assets/icons/flyway.svg" width="40" height="40" alt="Flyway" title="Flyway">
+      <img src="assets/icons/n8n.svg" width="40" height="40" alt="n8n" title="n8n">
+      <img src="assets/icons/opentelemetry.svg" width="40" height="40" alt="OpenTelemetry" title="OpenTelemetry">
+      <img src="assets/icons/prometheus.svg" width="40" height="40" alt="Prometheus" title="Prometheus">
+      <img src="assets/icons/grafana.svg" width="40" height="40" alt="Grafana" title="Grafana">
     </td>
   </tr>
 </table>
 
-## `03` Featured work
+## Featured work
 
 <table>
   <tr>
@@ -184,7 +218,7 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
   </tr>
 </table>
 
-## `04` Experience & credentials
+## Experience & credentials
 
 <table>
   <tr>
@@ -220,7 +254,13 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
   </tr>
 </table>
 
-## `05` GitHub activity
+## Writing
+
+Notes on what I learn while building: software design, AI systems and the engineering decisions behind my projects.
+
+<a href="https://rajitagrawal.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+
+## GitHub activity
 
 <p align="center">
   <picture>
@@ -247,7 +287,7 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
   </picture>
 </p>
 
-## `06` Connect
+## Connect
 
 <p>
   <a href="https://portfolio-fawn-delta-90.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=34D399"><img src="https://img.shields.io/badge/Portfolio-F6F8FA?style=for-the-badge&logo=vercel&logoColor=1A7F37" alt="Portfolio"></picture></a>
