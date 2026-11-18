@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="t d">
 <title id="t">Rajit Agrawal</title>
-<desc id="d">Building dependable software where AI meets finance. B.Tech CSE at VIT Vellore, class of 2027, CGPA 9.74.</desc>
+<desc id="d">Building dependable software where AI meets finance and healthcare. B.Tech CSE at VIT Vellore, class of 2027, CGPA 9.74.</desc>
 <style>
   .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
@@ -36,7 +36,7 @@
 <text x="48" y="66" class="mono" font-size="15"><tspan fill="#34D399">~/rajit</tspan><tspan fill="#8B949E"> $ whoami</tspan><tspan class="cursor" fill="#34D399" dx="3">█</tspan></text>
 <text x="45" y="138" class="sans" font-size="60" font-weight="700" letter-spacing="-1.5" fill="#E6EDF3">Rajit Agrawal</text>
 <text x="48" y="182" class="sans" font-size="24" fill="#8B949E">Building dependable software</text>
-<text x="48" y="214" class="sans" font-size="24" fill="#8B949E">where <tspan fill="#E6EDF3" font-weight="600">AI</tspan> meets <tspan fill="#E6EDF3" font-weight="600">finance</tspan>.</text>
+<text x="48" y="214" class="sans" font-size="24" fill="#8B949E">where <tspan fill="#E6EDF3" font-weight="600">AI</tspan> meets <tspan fill="#E6EDF3" font-weight="600">finance</tspan> &amp; <tspan fill="#E6EDF3" font-weight="600">healthcare</tspan>.</text>
 <rect x="48" y="250" width="220" height="30" rx="15" fill="#161B22" stroke="#30363D"/><text x="158.0" y="269.5" text-anchor="middle" class="mono" font-size="13" fill="#E6EDF3">B.Tech CSE · VIT Vellore</text><rect x="278" y="250" width="133" height="30" rx="15" fill="#161B22" stroke="#30363D"/><text x="344.5" y="269.5" text-anchor="middle" class="mono" font-size="13" fill="#E6EDF3">Class of 2027</text><rect x="421" y="250" width="101" height="30" rx="15" fill="#161B22" stroke="#30363D"/><text x="471.5" y="269.5" text-anchor="middle" class="mono" font-size="13" fill="#E6EDF3">CGPA 9.74</text>
 
 <rect x="596" y="40" width="324" height="240" rx="12" fill="#161B22" stroke="#30363D"/>
