@@ -41,8 +41,8 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
 
 <table>
   <tr>
-    <td width="170"><b>Languages</b></td>
-    <td>
+    <td width="22%"><b>Languages</b></td>
+    <td width="78%">
       <img src="assets/icons/c.svg" width="40" height="40" alt="C" title="C">
       <img src="assets/icons/cpp.svg" width="40" height="40" alt="C++" title="C++">
       <img src="assets/icons/java.svg" width="40" height="40" alt="Java" title="Java">
@@ -53,8 +53,8 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
     </td>
   </tr>
   <tr>
-    <td><b>Frontend &amp; mobile</b></td>
-    <td>
+    <td width="22%"><b>Frontend &amp; mobile</b></td>
+    <td width="78%">
       <img src="assets/icons/html.svg" width="40" height="40" alt="HTML" title="HTML">
       <img src="assets/icons/css.svg" width="40" height="40" alt="CSS" title="CSS">
       <img src="assets/icons/react.svg" width="40" height="40" alt="React" title="React">
@@ -66,8 +66,8 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
     </td>
   </tr>
   <tr>
-    <td><b>Backend &amp; APIs</b></td>
-    <td>
+    <td width="22%"><b>Backend &amp; APIs</b></td>
+    <td width="78%">
       <img src="assets/icons/spring.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot">
       <img src="assets/icons/fastapi.svg" width="40" height="40" alt="FastAPI" title="FastAPI">
       <img src="assets/icons/pydantic.svg" width="40" height="40" alt="Pydantic" title="Pydantic">
@@ -78,8 +78,8 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
     </td>
   </tr>
   <tr>
-    <td><b>AI &amp; LLMs</b></td>
-    <td>
+    <td width="22%"><b>AI &amp; LLMs</b></td>
+    <td width="78%">
       <img src="assets/icons/openai.svg" width="40" height="40" alt="OpenAI" title="OpenAI">
       <img src="assets/icons/claude.svg" width="40" height="40" alt="Claude" title="Claude">
       <img src="assets/icons/gemini.svg" width="40" height="40" alt="Google Gemini" title="Google Gemini">
@@ -90,8 +90,8 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
     </td>
   </tr>
   <tr>
-    <td><b>Data science</b></td>
-    <td>
+    <td width="22%"><b>Data science</b></td>
+    <td width="78%">
       <img src="assets/icons/numpy.svg" width="40" height="40" alt="NumPy" title="NumPy">
       <img src="assets/icons/pandas.svg" width="40" height="40" alt="Pandas" title="Pandas">
       <img src="assets/icons/scipy.svg" width="40" height="40" alt="SciPy" title="SciPy">
@@ -101,8 +101,8 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
     </td>
   </tr>
   <tr>
-    <td><b>Testing &amp; formal methods</b></td>
-    <td>
+    <td width="22%"><b>Testing &amp; formal methods</b></td>
+    <td width="78%">
       <img src="assets/icons/z3.svg" width="40" height="40" alt="Z3 SMT solver" title="Z3 SMT solver">
       <img src="assets/icons/lark.svg" width="40" height="40" alt="Lark parser" title="Lark parser">
       <img src="assets/icons/hypothesis.svg" width="40" height="40" alt="Hypothesis" title="Hypothesis">
@@ -112,8 +112,8 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
     </td>
   </tr>
   <tr>
-    <td><b>Cloud &amp; data platforms</b></td>
-    <td>
+    <td width="22%"><b>Cloud &amp; data platforms</b></td>
+    <td width="78%">
       <img src="assets/icons/aws.svg" width="40" height="40" alt="AWS" title="AWS">
       <img src="assets/icons/databricks.svg" width="40" height="40" alt="Databricks" title="Databricks">
       <img src="assets/icons/deltalake.svg" width="40" height="40" alt="Delta Lake" title="Delta Lake">
@@ -126,8 +126,8 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
     </td>
   </tr>
   <tr>
-    <td><b>Databases &amp; messaging</b></td>
-    <td>
+    <td width="22%"><b>Databases &amp; messaging</b></td>
+    <td width="78%">
       <img src="assets/icons/mysql.svg" width="40" height="40" alt="MySQL" title="MySQL">
       <img src="assets/icons/postgres.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">
       <img src="assets/icons/pgvector.svg" width="40" height="40" alt="pgvector" title="pgvector">
@@ -137,8 +137,8 @@ My internships span AI at **Deloitte**, software testing in the capital-markets 
     </td>
   </tr>
   <tr>
-    <td><b>DevOps &amp; observability</b></td>
-    <td>
+    <td width="22%"><b>DevOps &amp; observability</b></td>
+    <td width="78%">
       <img src="assets/icons/git.svg" width="40" height="40" alt="Git" title="Git">
       <img src="assets/icons/github.svg" width="40" height="40" alt="GitHub" title="GitHub">
       <img src="assets/icons/githubactions.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions">
